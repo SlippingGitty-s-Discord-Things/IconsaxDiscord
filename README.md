@@ -1,10 +1,12 @@
-# DISCONTINUED
+# RE-CONTINUED
 
-This theme is no longer being maintained. The last stable version of the theme can be found in the [releases](https://github.com/Lavender-Discord/IconsaxDiscord/releases).
+Fixing all of the classes with https://syndishanx.github.io/Website/Update_Classes.html
 
-# Support
+Original Maintainers:
+- kritishd8
+- AnubisNekhet
 
-For any kind of query related to this theme you can contact me in this [discord server](https://discord.gg/sfJV2qdRdW).
+You can find the previous version of this [here](https://github.com/Lavender-Discord/IconsaxDiscord/).
 
 # Previews
 
