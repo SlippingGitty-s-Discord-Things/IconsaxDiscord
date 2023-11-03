@@ -1,12 +1,15 @@
 # RE-CONTINUED
 
+### Paste this line into your x.theme.css file
+   * `@import url("https://slippinggitty-s-discord-things.github.io/IconsaxDiscord/theme.css");`
+
 Fixing all of the classes with https://syndishanx.github.io/Website/Update_Classes.html
 
-Original Maintainers:
+### Original Maintainers:
 - kritishd8
 - AnubisNekhet
 
-You can find the previous version of this [here](https://github.com/Lavender-Discord/IconsaxDiscord/).
+## You can find the previous version of this [here](https://github.com/Lavender-Discord/IconsaxDiscord/).
 
 # Previews
 
